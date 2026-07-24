@@ -1,42 +1,43 @@
 import type { GalleryConfig } from "@/types/galleryConfig";
 
-// 相册配置
+// Konfigurasi Galeri
 export const galleryConfig: GalleryConfig = {
-	// 相册列表
-	albums: [
-		// 支持jpg/png/webp/avif/gif格式
-		// id: 相册唯一标识符（用于目录命名和URL路径），比如设置：id: "firefly-2026", 对应 public/gallery/firefly-2026/目录
-		// cover: 手动指定封面图（可选，不填会把cover.*文件作为封面图，如果没有cover.*文件，则使用第一张图片作为封面图）
-		// name: 相册名称
-		// description: 相册描述
-		// location: 相册拍摄地点
-		// date: 相册日期，格式为 YYYY-MM-DD，用于排序和显示
-		// tags: 相册标签，用于分类和过滤
-		// password: 访问密码，设置后需要输入密码才能查看相册内容（可选）
-		// passwordHint: 密码提示，设置后在输入密码错误时显示（可选，需配合password使用）
-		// 每添加一个数组项就相当于添加了一个相册，记得在 public/gallery/ 目录下创建对应的子目录并放入图片
-		{
-			id: "firefly-2026",
-			name: "可爱流萤",
-			description: "飞萤之火自无梦的长夜亮起，绽放在终竟的明天。",
-			location: "崩坏：星穹铁道",
-			date: "2026-01-01",
-			tags: ["崩坏星穹铁道", "流萤"],
-		},
-		{
-			id: "encrypted-test",
-			name: "加密相册示例",
-			description:
-				"这是一个加密相册的示例，设置了访问密码，只有输入正确的密码才能查看相册内容。",
-			location: "崩坏：星穹铁道",
-			date: "2026-02-01",
-			tags: ["加密相册", "示例"],
-			password: "123456",
-			passwordHint: "示例密码123456",
-		},
-	],
+    // Daftar Album
+    albums: [
+        // Mendukung format gambar: jpg/png/webp/avif/gif
+        // id: Pengenal unik album (digunakan untuk nama folder dan URL), contoh: id: "kegiatan-2026", maka foldernya harus ada di public/gallery/kegiatan-2026/
+        // cover: Menentukan gambar sampul manual (opsional, jika dikosongkan sistem akan mencari file bernama "cover.*", jika tidak ada juga, gambar pertama di folder akan dijadikan sampul)
+        // name: Nama Album
+        // description: Deskripsi singkat album
+        // location: Lokasi pengambilan gambar
+        // date: Tanggal album (Format: YYYY-MM-DD), digunakan untuk mengurutkan album
+        // tags: Tag/Label album, digunakan untuk kategori dan filter pencarian
+        // password: Kata sandi akses (opsional, jika diisi maka pengunjung harus memasukkan sandi untuk melihat isi album)
+        // passwordHint: Petunjuk sandi (opsional, muncul jika pengunjung salah memasukkan sandi)
+        // CATATAN: Setiap menambahkan satu kurung kurawal { ... } berarti Anda menambahkan satu album baru. Pastikan membuat folder yang sesuai di dalam public/gallery/
+        
+        {
+            id: "kegiatan-2026",
+            name: "Praktik Lapangan SHL",
+            description: "Dokumentasi kegiatan, riset, dan praktik lapangan yang dilakukan oleh tim SHL Project.",
+            location: "Jawa Tengah",
+            date: "2026-07-24",
+            tags: ["Praktik", "Edukasi", "Riset"],
+        },
+        {
+            id: "album-eksklusif",
+            name: "Album Internal (Contoh Sandi)",
+            description: "Ini adalah contoh album rahasia. Hanya kolega yang memiliki kata sandi yang dapat melihat dokumen dan dokumentasi di dalamnya.",
+            location: "Kantor SHL",
+            date: "2026-02-01",
+            tags: ["Eksklusif", "Internal"],
+            password: "shl",
+            passwordHint: "Contoh sandi untuk membuka album ini adalah: shl",
+        },
+    ],
 
-	// 瀑布流最小列宽(px)，浏览器根据容器宽度自动计算列数，默认 240
-	// 值越小列数越多，值越大列数越少
-	columnWidth: 240,
+    // Lebar minimum kolom galeri foto (dalam satuan px). 
+    // Browser akan otomatis menghitung jumlah kolom berdasarkan lebar layar. Bawaan: 240
+    // Semakin kecil nilainya = semakin banyak kolomnya. Semakin besar = semakin sedikit kolomnya.
+    columnWidth: 240,
 };
