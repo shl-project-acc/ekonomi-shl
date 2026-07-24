@@ -17,11 +17,11 @@ export const galleryConfig: GalleryConfig = {
         // CATATAN: Setiap menambahkan satu kurung kurawal { ... } berarti Anda menambahkan satu album baru. Pastikan membuat folder yang sesuai di dalam public/gallery/
         
         {
-            id: "kegiatan-2026",
+            id: "album-eksklusif",
             name: "Album Internal",
-            description: "Ini adalah contoh album rahasia. Hanya kolega yang memiliki kata sandi yang dapat melihat dokumen dan dokumentasi di dalamnya.",
+            description: "Dokumentasi kegiatan, riset, dan praktik lapangan yang dilakukan oleh tim SHL Project.",
             location: "Kantor SHL",
-            date: "2026-07-24",
+            date: "2026-02-01",
             tags: ["Eksklusif", "Internal"],
 			password: "shl",
             passwordHint: "Contoh sandi untuk membuka album ini adalah: shl",
