@@ -146,7 +146,7 @@ export const sponsorConfig: SponsorConfig = {
 
 
         // 示例：匿名打赏者
-		// Contoh: Donatur anonim
+		// Contoh: Donatur anonim ya
 
         {
 
