@@ -13,7 +13,7 @@ Selamat datang di blog SHL Project! Ini adalah teks pertama yang saya tulis send
 Melalui blog ini, saya akan berbagi wawasan seputar dunia ekonomi, bisnis, dan manajemen.
 
 Ekonomi bukan sekadar angka atau grafik. Ia adalah ilmu tentang bagaimana manusia membuat pilihan dalam keterbatasan. Setiap hari kita berhadapan dengan keputusan: membeli atau menabung, bekerja atau beristirahat, berinvestasi atau menunda. Semua itu adalah bagian dari ekonomi.
-...
+
 ![Ilustrasi Pilihan Ekonomi](./images/post-pertama-1.webp)
 
 Pada dasarnya, ekonomi menjawab pertanyaan sederhana: bagaimana kita menggunakan sumber daya yang terbatas untuk memenuhi kebutuhan yang tidak terbatas. Dari dapur rumah tangga hingga kebijakan negara, prinsip ini selalu berlaku.
