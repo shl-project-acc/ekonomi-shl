@@ -18,18 +18,18 @@ export const galleryConfig: GalleryConfig = {
         
         {
             id: "kegiatan-2026",
-            name: "Praktik Lapangan SHL",
-            			description: "Ini adalah contoh album rahasia. Hanya kolega yang memiliki kata sandi yang dapat melihat dokumen dan dokumentasi di dalamnya.",
-            location: "Jawa Tengah",
+            name: "Album Internal",
+            description: "Ini adalah contoh album rahasia. Hanya kolega yang memiliki kata sandi yang dapat melihat dokumen dan dokumentasi di dalamnya.",
+            location: "Kantor SHL",
             date: "2026-07-24",
-            tags: ["Praktik", "Edukasi", "Riset"],
+            tags: ["Eksklusif", "Internal"],
 			password: "shl",
             passwordHint: "Contoh sandi untuk membuka album ini adalah: shl",
         },
         {
             id: "album-eksklusif",
             name: "Album Internal",
-            ddescription: "Dokumentasi kegiatan, riset, dan praktik lapangan yang dilakukan oleh tim SHL Project.",
+            description: "Dokumentasi kegiatan, riset, dan praktik lapangan yang dilakukan oleh tim SHL Project.",
             location: "Kantor SHL",
             date: "2026-02-01",
             tags: ["Eksklusif", "Internal"],
