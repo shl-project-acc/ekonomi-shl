@@ -1,29 +1,23 @@
-# 关于我 / About Me
+# Tentang SHL Project / About Us
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+Halo! Selamat datang di **SHL Project**.
 
-## 🛠️ 关于本站
+Situs ini adalah ruang untuk berbagi wawasan, ide, dan catatan perjalanan seputar dunia **ekonomi, teori bisnis, dan praktik lapangan**. Kami percaya pada prinsip: *"Dari Ilmu ke Amal, Dari Teori ke Praktik"*.
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+Melalui platform ini, kami berharap dapat menyajikan artikel dan studi kasus yang relevan dan bermanfaat, khususnya bagi para penggiat bisnis lokal dan siapa saja yang tertarik dengan perkembangan ekonomi.
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+## 🛠️ Visi & Misi
 
+*   **Edukasi:** Menyajikan teori ekonomi dan bisnis dengan bahasa yang mudah dipahami.
+*   **Praktik:** Memberikan studi kasus riil yang bisa diterapkan oleh pelaku usaha.
+*   **Kolaborasi:** Membangun diskusi yang sehat untuk kemajuan bersama.
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+## 🌐 Temukan Kami
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
+Anda dapat melihat proyek, pembaruan web, dan repositori kami melalui tautan GitHub di bawah ini:
 
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
+**⭐ GitHub SHL Project:** [https://github.com/shl-project-acc](https://github.com/shl-project-acc)
 
 ---
 
-*感谢你的来访！希望在这里能找到对你有用的内容！*
-
+*Terima kasih atas kunjungan Anda! Semoga Anda menemukan wawasan baru dan hal yang bermanfaat di sini.*
