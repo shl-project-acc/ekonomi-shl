@@ -13,7 +13,7 @@ export const sponsorConfig: SponsorConfig = {
     methods: [
         {
             name: "Saweria",
-            icon: "simple-icons:ko-fi", // Menggunakan ikon aman yang sudah ada di tema
+            icon: "lucide:heart", 
             qrCode: "",
             link: "https://saweria.co/username-anda",
             description: "Dukung kami melalui Saweria",
@@ -21,7 +21,7 @@ export const sponsorConfig: SponsorConfig = {
         },
         {
             name: "Ko-fi",
-            icon: "simple-icons:kofi",
+            icon: "lucide:coffee",
             qrCode: "",
             link: "https://ko-fi.com/username-anda",
             description: "Belikan kami kopi via Ko-fi",
