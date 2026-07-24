@@ -72,7 +72,7 @@ export const siteConfig: SiteConfig = {
 		// 4. 网络图片: { type: "url", value: "https://example.com/logo.png", alt: "Logo" }
 		logo: {
 			type: "image",
-			value: "assets/images/logo-shl-project.png",
+			value: "assets/images/logo-shl-project.webp",
 			alt: "🍀",
 		},
 		// 导航栏标题
