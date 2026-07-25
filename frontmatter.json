@@ -58,6 +58,11 @@
           "title": "pancingan",
           "name": "pancingan",
           "type": "string"
+        },
+        {
+          "title": "Hapus",
+          "name": "Hapus",
+          "type": "string"
         }
       ]
     }
