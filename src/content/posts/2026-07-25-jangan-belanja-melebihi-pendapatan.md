@@ -1,10 +1,10 @@
 ---
 title: Jangan Belanja Melebihi Pendapatan
-published: 2026-07-25T12:20:01.058Z
+published: 2026-07-25T12:42:33.277Z
 description: "Artikel ini membahas pentingnya mengatur keuangan pribadi dengan prinsip sederhana: jangan mengeluarkan uang lebih banyak daripada yang kita hasilkan. "
 image: ./images/Jangan-Belanja-Melebihi-Pendapatan.webp
 preview: ""
-draft: true
+draft: false
 tags:
     - Gaya Hidup
     - Manajemen Keuangan
