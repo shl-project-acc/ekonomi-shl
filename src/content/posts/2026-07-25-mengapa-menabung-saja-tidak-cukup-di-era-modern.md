@@ -2,8 +2,8 @@
 title: Mengapa Menabung Saja Tidak Cukup di Era Modern
 published: 2026-07-25T11:09:59.383Z
 description: Kenali alasan mengapa menabung di bank saja tidak cukup melawan inflasi dan mulailah berinvestasi.
-image: "./images/Mengapa-Menabung-Saja-Tidak-Cukup-d-Era-Modern.webp"
-preview: "./images/Mengapa-Menabung-Saja-Tidak-Cukup-d-Era-Modern.webp"
+image: /src/content/posts/images/Mengapa-Menabung-Saja-Tidak-Cukup-di-Era-Modern.webp
+preview: ""
 draft: false
 tags:
     - Investasi
@@ -14,13 +14,7 @@ categories:
     - Ekonomi
     - Gaya Hidup
     - Financial
-keywords:
-    - Alasan menabung tidak cukup
-    - Cara melawan inflasi
-    - Keuangan pribadi pemula
-    - Menabung vs Investasi
-    - Pentingnya Berinvestasi
-    - Investasi untuk masa depan
+keywords: Cara melawan inflasi
 ---
 Banyak dari kita diajarkan sejak kecil bahwa "rajin pangkal pandai, hemat pangkal kaya." Menabung di celengan atau rekening bank dianggap sebagai jalan paling aman menuju kebebasan finansial. Namun, di era modern ini, aturan mainnya sudah berubah. 
 
