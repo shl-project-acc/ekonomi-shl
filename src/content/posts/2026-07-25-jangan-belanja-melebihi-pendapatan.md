@@ -10,7 +10,6 @@ tags:
     - Manajemen Keuangan
     - Ekonomi
 category:
-    - Ekonomi
     - Financial
 keywords:
     - Jangan Belanja Melebihi Pendapatan
