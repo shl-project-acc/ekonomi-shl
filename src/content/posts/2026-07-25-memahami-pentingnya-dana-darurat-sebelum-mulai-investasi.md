@@ -5,7 +5,6 @@ description: Jangan asal investasi, pastikan Anda sudah memiliki dana darurat ya
 image: ./images/memahami-pentingnya-dana-darurat.webp
 preview: ./images/memahami-pentingnya-dana-darurat.webp
 draft: false
-category: "Ekonomi"
 tags:
   - Dana Darurat
   - Keuangan Pribadi
