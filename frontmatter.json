@@ -42,8 +42,8 @@
           "type": "tags"
         },
         {
-          "title": "categories",
-          "name": "categories",
+          "title": "category",
+          "name": "category",
           "type": "categories"
         },
         {
@@ -51,12 +51,7 @@
           "name": "keywords",
           "type": "choice",
           "choices": [
-            "Alasan menabung tidak cukup",
-            "Cara melawan inflasi",
-            "Keuangan pribadi pemula",
-            "Menabung vs Investasi",
-            "Pentingnya Berinvestasi",
-            "Investasi untuk masa depan"
+            "Cara menyiapkan dana darurat"
           ]
         }
       ]
