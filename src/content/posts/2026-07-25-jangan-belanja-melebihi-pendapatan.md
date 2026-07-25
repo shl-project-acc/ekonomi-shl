@@ -9,9 +9,7 @@ tags:
     - Gaya Hidup
     - Manajemen Keuangan
     - Ekonomi
-category:
-    - Ekonomi
-    - Financial
+category: "Financial"
 keywords:
     - Jangan Belanja Melebihi Pendapatan
     - Mengatur Keuangan Pribadi
