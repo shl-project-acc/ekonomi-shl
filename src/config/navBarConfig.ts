@@ -119,10 +119,10 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
                 icon: "fa7-brands:github",
             },
             {
-                name: "Gitee",
-                url: "#",
+                name: "Youtube",
+                url: "https://www.youtube.com/@SHLPROJECT",
                 external: true,
-                icon: "fa7-brands:gitee",
+                icon: "fa7-brands:youtube",
             },
 
         ],

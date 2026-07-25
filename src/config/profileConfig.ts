@@ -22,21 +22,21 @@ export const profileConfig: ProfileConfig = {
 	// showName: true 时显示图标和名称，false 时只显示图标
 	links: [
 		{
-			name: "qq",
-			icon: "fa7-brands:qq",
-			url: "#",
+			name: "youtube",
+			icon: "fa7-brands:youtube",
+			url: "https://www.youtube.com/@SHLPROJECT",
 			showName: false,
 		},
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "#",
+			url: "https://github.com/shl-project-acc",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:#",
+			url: "mailto:shlprojectbusiness@gmail.com",
 			showName: false,
 		},
 		{
