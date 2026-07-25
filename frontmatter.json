@@ -7,41 +7,57 @@
       "previewPath": null,
       "fields": [
         {
-          "title": "Title",
+          "title": "title",
           "name": "title",
           "type": "string"
         },
         {
-          "title": "Description",
+          "title": "published",
+          "name": "published",
+          "type": "datetime"
+        },
+        {
+          "title": "description",
           "name": "description",
           "type": "string"
         },
         {
-          "title": "Publishing date",
-          "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
-        },
-        {
-          "title": "Content preview",
-          "name": "preview",
+          "title": "image",
+          "name": "image",
           "type": "image"
         },
         {
-          "title": "Is in draft",
+          "title": "preview",
+          "name": "preview",
+          "type": "string"
+        },
+        {
+          "title": "draft",
           "name": "draft",
           "type": "draft"
         },
         {
-          "title": "Tags",
+          "title": "tags",
           "name": "tags",
           "type": "tags"
         },
         {
-          "title": "Categories",
+          "title": "categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "keywords",
+          "name": "keywords",
+          "type": "choice",
+          "choices": [
+            "Alasan menabung tidak cukup",
+            "Cara melawan inflasi",
+            "Keuangan pribadi pemula",
+            "Menabung vs Investasi",
+            "Pentingnya Berinvestasi",
+            "Investasi untuk masa depan"
+          ]
         }
       ]
     }
