@@ -1,9 +1,9 @@
 ---
 title: Memahami Pentingnya Dana Darurat Sebelum Mulai Investasi
-published: 2026-07-24T17:00:00.000Z
+published: 2026-07-25T11:41:46.826Z
 description: Jangan asal investasi, pastikan Anda sudah memiliki dana darurat yang cukup untuk menghadapi situasi krisis dan tak terduga.
-image: "./images/memahami-pentingnya-dana-darurat.webp"
-preview: "./images/memahami-pentingnya-dana-darurat.webp"
+image: ./images/memahami-pentingnya-dana-darurat.webp
+preview: ./images/memahami-pentingnya-dana-darurat.webp
 draft: false
 tags:
     - Dana Darurat
