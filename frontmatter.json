@@ -53,6 +53,11 @@
           "choices": [
             "Cara menyiapkan dana darurat"
           ]
+        },
+        {
+          "title": "pancingan",
+          "name": "pancingan",
+          "type": "string"
         }
       ]
     }
