@@ -29,12 +29,18 @@
         {
           "title": "preview",
           "name": "preview",
-          "type": "string"
+          "type": "image"
         },
         {
           "title": "draft",
           "name": "draft",
-          "type": "draft"
+          "type": "boolean",
+          "default": false
+        },
+        {
+          "title": "category",
+          "name": "category",
+          "type": "string"
         },
         {
           "title": "tags",
@@ -42,26 +48,13 @@
           "type": "tags"
         },
         {
-          "title": "category",
-          "name": "category",
-          "type": "categories"
-        },
-        {
           "title": "keywords",
           "name": "keywords",
-          "type": "choice",
-          "choices": [
-            "Cara menyiapkan dana darurat"
-          ]
-        },
-        {
-          "title": "pancingan",
-          "name": "pancingan",
           "type": "string"
         },
         {
-          "title": "Hapus",
-          "name": "Hapus",
+          "title": "slug",
+          "name": "slug",
           "type": "string"
         }
       ]

@@ -14,8 +14,6 @@ keywords:
     - Bisnis Sekarang
     - Trend Bisnis Digital
     - Adptasi Teknologi
-
-Hapus: untuk pancingan
 ---
 
 Bisnis sekarang bergerak dalam ekosistem yang serba cepat dan digital. Konsumen lebih kritis, teknologi berkembang pesat, dan persaingan semakin ketat. Pelaku usaha tidak bisa lagi hanya mengandalkan cara lama, melainkan harus berinovasi agar tetap relevan.
