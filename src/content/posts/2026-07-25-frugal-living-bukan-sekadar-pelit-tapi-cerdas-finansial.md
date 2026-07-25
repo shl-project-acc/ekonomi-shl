@@ -14,7 +14,6 @@ category: "Financial"
 keywords:
     - Apa itu frugal living
 slug: frugal-living-bukan-sekadar-pelit-tapi-cerdas-finansial
-fmContentType: default
 ---
 Belakangan ini, istilah *Frugal Living* semakin sering terdengar di media sosial. Banyak orang yang salah kaprah dan menganggap bahwa *frugal living* sama dengan bersikap pelit atau menyiksa diri sendiri dengan tidak menikmati hidup. Padahal, konsep aslinya jauh lebih elegan dari itu.
 
