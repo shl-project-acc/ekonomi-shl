@@ -2,7 +2,7 @@
 title: Bisnis Sekarang Menuntut Inovasi Digital
 published: 2026-07-25T12:58:14.998Z
 description: Beradaptasi dengan teknologi, memahami perilaku konsumen, dan menciptakan strategi pemasaran yang relevan agar tetap kompetitif.
-image: ./images/Trend Bisnis.webp
+image: ./images/Trend-Bisnis.webp
 preview: ""
 draft: false
 tags:
