@@ -78,6 +78,30 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 			// 关于页面
 			LinkPresets.About,
+
+            // --- Halaman Baru ---
+            {
+                name: "Contact Us",
+                url: "/contact/",
+                icon: "material-symbols:mail-outline",
+            },
+            {
+                name: "Privacy Policy",
+                url: "/privacy/",
+                icon: "material-symbols:security",
+            },
+            {
+                name: "Disclaimer",
+                url: "/disclaimer/",
+                icon: "material-symbols:policy",
+            },
+            {
+                name: "Terms & Conditions",
+                url: "/terms/",
+                icon: "material-symbols:gavel",
+            },
+
+
 		],
 	});
 

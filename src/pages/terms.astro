@@ -1,0 +1,87 @@
+---
+import MainGridLayout from "@/layouts/MainGridLayout.astro";
+
+const title = "Terms and Conditions";
+const description = "Syarat dan Ketentuan penggunaan situs web SHL Project.";
+---
+
+<MainGridLayout title={title} description={description}>
+    <div class="flex w-full rounded-(--radius-large) overflow-hidden relative min-h-32 mt-4">
+        <div class="card-base z-10 px-9 py-6 relative w-full">
+            <!-- Judul Halaman -->
+            <div class="flex items-center gap-3 mb-6">
+                <h1 class="text-3xl font-bold text-neutral-900 dark:text-neutral-100">
+                    Syarat dan Ketentuan
+                </h1>
+            </div>
+
+            <!-- Area Isi Teks -->
+            <div class="prose prose-neutral dark:prose-invert max-w-none custom-prose">
+                <p>
+                    Selamat datang di <strong>SHL Project</strong>. Dengan mengakses dan menggunakan situs web ini, Anda setuju untuk mematuhi dan terikat oleh Syarat dan Ketentuan penggunaan berikut. Jika Anda tidak setuju dengan bagian mana pun dari syarat ini, mohon untuk tidak menggunakan situs web kami.
+                </p>
+
+                <h2>1. Penggunaan Situs</h2>
+                <p>
+                    Konten halaman-halaman situs web ini adalah untuk informasi umum dan penggunaan Anda saja. Konten ini dapat berubah sewaktu-waktu tanpa pemberitahuan sebelumnya. Penggunaan Anda atas informasi atau materi apa pun di situs web ini sepenuhnya merupakan risiko Anda sendiri, di mana kami tidak akan bertanggung jawab.
+                </p>
+
+                <h2>2. Hak Kekayaan Intelektual</h2>
+                <p>
+                    Situs web ini berisi materi yang dimiliki oleh atau dilisensikan kepada kami. Materi ini termasuk, namun tidak terbatas pada, desain, tata letak, tampilan, grafis, dan artikel. Dilarang mereproduksi, menyalin, atau mendistribusikan ulang konten kami untuk tujuan komersial tanpa izin tertulis dari pihak SHL Project.
+                </p>
+
+                <h2>3. Konten Pengguna dan Komentar</h2>
+                <p>
+                    Jika situs ini mengizinkan pengguna untuk memposting komentar, Anda setuju untuk tidak memposting materi yang bersifat memfitnah, menyinggung, melanggar hukum, atau melanggar hak kekayaan intelektual pihak ketiga. Kami berhak menghapus komentar apa pun yang dianggap tidak pantas tanpa pemberitahuan.
+                </p>
+
+                <h2>4. Tautan Pihak Ketiga</h2>
+                <p>
+                    Situs web ini mungkin juga menyertakan tautan ke situs web lain. Tautan ini disediakan untuk kenyamanan Anda dalam memberikan informasi lebih lanjut. Hal tersebut tidak berarti bahwa kami mendukung situs web tersebut. Kami tidak bertanggung jawab atas isi dari situs web yang ditautkan.
+                </p>
+
+                <h2>5. Batasan Tanggung Jawab</h2>
+                <p>
+                    Dalam keadaan apa pun, SHL Project tidak bertanggung jawab atas kerugian atau kerusakan, termasuk tanpa batasan, kerugian tidak langsung atau konsekuensial, yang timbul dari hilangnya data atau keuntungan yang terkait dengan penggunaan situs web ini.
+                </p>
+
+                <h2>6. Perubahan Syarat dan Ketentuan</h2>
+                <p>
+                    Kami berhak untuk memperbarui atau mengubah bagian mana pun dari Syarat dan Ketentuan ini dengan memposting pembaruan dan perubahan pada situs web kami. Merupakan tanggung jawab Anda untuk memeriksa halaman ini secara berkala untuk mengetahui perubahan tersebut.
+                </p>
+
+                <h2>7. Hubungi Kami</h2>
+                <p>
+                    Jika Anda memiliki pertanyaan tentang Syarat dan Ketentuan ini, Anda dapat menghubungi kami melalui halaman <a href="/contact">Contact Us</a>.
+                </p>
+
+                <br>
+                <p class="text-sm text-neutral-500"><em>Terakhir diperbarui: 25 Juli 2026</em></p>
+            </div>
+            
+        </div>
+    </div>
+</MainGridLayout>
+
+<style>
+    /* Sedikit styling tambahan agar list dan paragraf lebih rapi */
+    .custom-prose p {
+        margin-bottom: 1.25em;
+        line-height: 1.75;
+    }
+    .custom-prose h2 {
+        margin-top: 2em;
+        margin-bottom: 1em;
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: var(--primary);
+    }
+    .custom-prose a {
+        color: var(--primary);
+        text-decoration: none;
+    }
+    .custom-prose a:hover {
+        text-decoration: underline;
+    }
+</style>

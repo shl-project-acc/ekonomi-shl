@@ -1,0 +1,85 @@
+---
+import MainGridLayout from "@/layouts/MainGridLayout.astro";
+
+const title = "Disclaimer";
+const description = "Penafian dan batasan tanggung jawab untuk konten di situs web SHL Project.";
+---
+
+<MainGridLayout title={title} description={description}>
+    <div class="flex w-full rounded-(--radius-large) overflow-hidden relative min-h-32 mt-4">
+        <div class="card-base z-10 px-9 py-6 relative w-full">
+            <!-- Judul Halaman -->
+            <div class="flex items-center gap-3 mb-6">
+                <h1 class="text-3xl font-bold text-neutral-900 dark:text-neutral-100">
+                    Disclaimer (Penafian)
+                </h1>
+            </div>
+
+            <!-- Area Isi Teks -->
+            <div class="prose prose-neutral dark:prose-invert max-w-none custom-prose">
+                <p>
+                    Semua informasi yang ada di situs web <strong>SHL Project</strong> diterbitkan dengan itikad baik dan hanya untuk tujuan informasi umum. Kami tidak memberikan jaminan apa pun mengenai kelengkapan, keandalan, dan keakuratan informasi tersebut.
+                </p>
+
+                <h2>1. Batasan Tanggung Jawab</h2>
+                <p>
+                    Setiap tindakan yang Anda ambil atas informasi yang Anda temukan di situs web ini (SHL Project), sepenuhnya merupakan risiko Anda sendiri. SHL Project tidak akan bertanggung jawab atas kerugian dan/atau kerusakan sehubungan dengan penggunaan situs web kami.
+                </p>
+
+                <h2>2. Tautan Keluar (External Links)</h2>
+                <p>
+                    Dari situs web kami, Anda dapat mengunjungi situs web lain dengan mengikuti hyperlink ke situs eksternal tersebut. Meskipun kami berusaha untuk hanya menyediakan tautan berkualitas ke situs web yang berguna dan beretika, kami tidak memiliki kendali atas konten dan sifat situs-situs tersebut. 
+                </p>
+                <p>
+                    Tautan ke situs web lain ini tidak menyiratkan rekomendasi untuk semua konten yang ditemukan di situs tersebut. Pemilik situs dan konten dapat berubah tanpa pemberitahuan dan dapat terjadi sebelum kami memiliki kesempatan untuk menghapus tautan yang mungkin sudah 'rusak' atau tidak relevan.
+                </p>
+
+                <h2>3. Kebijakan Privasi Pihak Ketiga</h2>
+                <p>
+                    Perlu diketahui juga bahwa ketika Anda meninggalkan situs web kami, situs lain mungkin memiliki kebijakan privasi dan ketentuan berbeda yang berada di luar kendali kami. Harap pastikan untuk memeriksa Kebijakan Privasi dari situs-situs tersebut serta "Syarat dan Ketentuan" mereka sebelum terlibat dalam bisnis apa pun atau mengunggah informasi apa pun.
+                </p>
+
+                <h2>4. Bukan Nasihat Profesional</h2>
+                <p>
+                    Konten yang disajikan di blog ini adalah opini pribadi, pengalaman, atau hasil riset penulis, dan <strong>tidak</strong> boleh dianggap sebagai nasihat profesional, baik itu di bidang keuangan, hukum, medis, maupun bidang profesional lainnya. Selalu konsultasikan dengan ahli yang berkualifikasi sebelum mengambil keputusan besar.
+                </p>
+
+                <h2>5. Persetujuan</h2>
+                <p>
+                    Dengan menggunakan situs web kami, Anda dengan ini menyetujui disclaimer kami dan menyetujui ketentuan-ketentuannya.
+                </p>
+
+                <h2>6. Pembaruan</h2>
+                <p>
+                    Jika kami memperbarui, mengubah, atau membuat perubahan apa pun pada dokumen ini, perubahan tersebut akan diposting secara jelas di sini.
+                </p>
+
+                <br>
+                <p class="text-sm text-neutral-500"><em>Terakhir diperbarui: 25 Juli 2026</em></p>
+            </div>
+            
+        </div>
+    </div>
+</MainGridLayout>
+
+<style>
+    /* Sedikit styling tambahan agar list dan paragraf lebih rapi */
+    .custom-prose p {
+        margin-bottom: 1.25em;
+        line-height: 1.75;
+    }
+    .custom-prose h2 {
+        margin-top: 2em;
+        margin-bottom: 1em;
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: var(--primary);
+    }
+    .custom-prose a {
+        color: var(--primary);
+        text-decoration: none;
+    }
+    .custom-prose a:hover {
+        text-decoration: underline;
+    }
+</style>
