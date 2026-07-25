@@ -4,7 +4,7 @@ published: 2026-07-25
 description: Kenali alasan mengapa menabung di bank saja tidak cukup melawan inflasi dan mulailah berinvestasi.
 image: /src/content/posts/images/Mengapa-Menabung-Saja-Tidak-Cukup-d- Era-Modern.webp
 preview: /src/content/posts/images/Mengapa-Menabung-Saja-Tidak-Cukup-d- Era-Modern.webp
-draft: true
+draft: false
 tags:
     - Investasi
     - Keuangan Pribadi
