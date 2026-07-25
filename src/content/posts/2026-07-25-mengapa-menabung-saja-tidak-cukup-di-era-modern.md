@@ -15,7 +15,6 @@ tags:
   - Financial
 keywords: Cara melawan inflasi
 slug: mengapa-menabung-saja-tidak-cukup-di-era-modern
-fmContentType: default
 ---
 
 
